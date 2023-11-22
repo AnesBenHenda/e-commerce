@@ -1,0 +1,22 @@
+export const social_media=[
+    {
+        id:1,
+        title:"facebook",
+    },
+    {
+        id:2,
+        title:"instagram",
+    },
+    {
+        id:3,
+        title:"telegram",
+    },
+    {
+        id:4,
+        title:"twitter",
+    },
+    {
+        id:4,
+        title:"youtube",
+    },
+]
